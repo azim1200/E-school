@@ -1,0 +1,92 @@
+.container{
+    margin-bottom: 50px;
+}
+.top{
+    list-style: none;
+}
+.row img{
+    width: 100%;
+}
+.get-button{
+    border: none;
+    margin-top: 10px;
+    background-color: #21B573;
+    color: white;
+    padding:    12px 36px;
+    border-radius: 33px;
+}
+.pink{
+    color: #FD511A;
+    ;
+}
+.t{
+    padding:    3px 10px;
+    border-radius: 30px;
+
+}
+.green{
+    color: #21B573;
+}
+.details img{
+    width: 66px;
+    height: 80px;
+}
+.d-2{
+
+    
+    height: 270px;
+    width: 270px;
+    margin: 30px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.d-3{
+    margin-top: 50px;
+}
+.d-4{
+    margin-top: 30px;
+}
+.center{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.last{
+    text-align: left;
+    color: blue;
+}
+/* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. */
+
+
+
+.lal1{
+text-align: left;
+
+}
+.lal2 img{
+    width: 50%;
+ 
+}
+.finish{
+    background-color: #282531;
+    height: 350px;
+}
+.vanish{
+    padding-top: 50px;
+    color: white;
+    
+}
+ul{
+    list-style: none;
+}
+footer{
+    text-align: center;
+    color: #CDCDCD;
+    padding-top: 70px;
+}
+.banner{
+    width: 17%;
+    height: 55px;
+}
